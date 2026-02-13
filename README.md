@@ -3,7 +3,7 @@
 **Your intelligent, real-time bookmark manager.**
 Organise your digital life with a sleek, modern interface that syncs instantly across all your devices.
 
-![Project Banner]([[https://ibb.co/G4wqYQ6L](https://instasize.com/p/dd2d1bc4b2568c581a45cb5c7308a1139542cc55a78076858538bf858895c57f)]))
+![Project Banner]([https://instasize.com/p/dd2d1bc4b2568c581a45cb5c7308a1139542cc55a78076858538bf858895c57f]))
 
 ## ✨ key Features
 
