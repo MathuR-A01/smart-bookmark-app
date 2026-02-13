@@ -3,7 +3,7 @@
 **Your intelligent, real-time bookmark manager.**
 Organize your digital life with a sleek, modern interface that syncs instantly across all your devices.
 
-![Project Banner](https://images.unsplash.com/photo-1481487484168-9b830af43f87?q=80&w=2670&auto=format&fit=crop)
+![Project Banner]([https://ibb.co/G4wqYQ6L]))
 
 ## ✨ key Features
 
